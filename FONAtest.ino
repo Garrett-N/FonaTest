@@ -18,8 +18,6 @@
  ****************************************************/
 
 /*
-THIS CODE IS STILL IN PROGRESS!
-
 Open up the serial console on the Arduino at 115200 baud to interact with FONA
 
 Note that if you need to set a GPRS APN, username, and password scroll down to
